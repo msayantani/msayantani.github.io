@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is the first post of Sayantani"
+title:  "This is the first post of Sayantani Mukherjee"
 date:   2017-08-22 16:55:23 +0530
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  "This is the third post of Sayantani"
+title:  "Introduction to Main exams of WBCS"
 date:   2017-09-11 16:55:23 +0530
 categories: jekyll update
 ---

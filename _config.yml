@@ -16,13 +16,16 @@
 title: This is a  very useful blog for WBCS aspirants
 email:  mukherjeesayantani87@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A warm welcome to my blog. Myself Dr Mukherjee, who is a practicing dentist and also helps folks to clear
+  West Bengal Civil Service exam. This is more of my passion and over the last couple of years , I have mentored 
+  a few students to clear the exam and the interview successfully. Hence I decided to start blogging to further
+  spread my teachings to a wider audience. Hope you find it interesting and of course helpful. Looking forward
+  to your feedback !!!
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: msayantani
+github_username:  msayantani
 
 # Build settings
 markdown: kramdown

@@ -1,25 +1,28 @@
 ---
 layout: post
-title:  "This is the first post of Sayantani Mukherjee"
+title:  "Introduction to WBCS exam"
 date:   2017-08-22 16:55:23 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Introduction to WBCS exam
 
-Jekyll also offers powerful support for code snippets:
+This post is for absolute starters to the WBCS exams or in other words for people who are planning to start 
+preparations for the exam. So for starters, this exam is primarily divided into the following 3 stages of selection :
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+* Stage 1 - Preliminary Exam
+* Stage 2 - Main Exam
+* Stage 3 - Personal Interview
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Each of this stages is a screening stage. So people who can successfully clear `Stage 1` can only appear for `Stage 2` and 
+similarly, people who can successfully clear `Stage 2` can only appear for `Stage 3`. So at each level , a vast percentage
+of students get elimiated. So you can understand that the exam is immensely competitive and hence needs very good strategic
+planning to succeed.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+It is interesting to note that one's score in the first stage or the preliminary exam (popularly known as `preli` ) is 
+not counted going forward. It is only used to filter out candidates who can appear for second stage which is the main exam.
+
+However for main exam and personal interview (Stage 2 & 3 respectively), one's score is added up to finally ascertain 
+whether he will be selected finally. This is of course provided one person is selected to appear both for Stage 2 & 3.
+
+I would stop here for today and in the next blog - I'll discuss briefly about the patterns of Stage 1 (`preli`) exam. Till then looking forward to your questions..

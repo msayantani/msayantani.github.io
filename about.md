@@ -3,16 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+  A warm welcome to my blog which is dedicated to help aspiring WBCS students. For sometime now, I have been coaching/
+  mentoring students to clear this exam and the interview successfully. 
+  
+  So I decided to start blogging to further share my teachings/experience to a wider audience. Hope you find it interesting
+  and of course helpful. Looking forward to your feedback !!!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

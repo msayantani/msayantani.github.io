@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction of Preliminary Exam of WBCS"
+title:  "Introduction to Preliminary Exam of WBCS"
 date:   2017-08-24 16:55:23 +0530
 categories: jekyll update
 ---

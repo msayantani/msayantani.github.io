@@ -13,18 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: This is a  very useful blog for WBCS aspirants
+title: Tips for WBCS (West Bengal Civil Service) exam
 email:  mukherjeesayantani87@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A warm welcome to my blog. Myself Dr Mukherjee, who is a practicing dentist and also helps folks to clear
-  West Bengal Civil Service exam. This is more of my passion and over the last couple of years , I have mentored 
-  a few students to clear the exam and the interview successfully. Hence I decided to start blogging to further
-  spread my teachings to a wider audience. Hope you find it interesting and of course helpful. Looking forward
-  to your feedback !!!
+  Myself Dr Mukherjee, who is a practicing dentist and also helps folks to clear West Bengal Civil Service exam. 
+  This is more of my passion and over the last couple of years , I have mentored 
+  a few students to clear the exam and the interview successfully. 
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: msayantani
+twitter_username: 
 github_username:  msayantani
 
 # Build settings
